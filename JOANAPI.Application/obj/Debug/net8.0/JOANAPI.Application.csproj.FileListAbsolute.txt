@@ -1,0 +1,12 @@
+D:\C#\JOANAPI\JOANAPI.Application\bin\Debug\net8.0\JOANAPI.Application.deps.json
+D:\C#\JOANAPI\JOANAPI.Application\bin\Debug\net8.0\JOANAPI.Application.dll
+D:\C#\JOANAPI\JOANAPI.Application\bin\Debug\net8.0\JOANAPI.Application.pdb
+D:\C#\JOANAPI\JOANAPI.Application\obj\Debug\net8.0\JOANAPI.Application.csproj.AssemblyReference.cache
+D:\C#\JOANAPI\JOANAPI.Application\obj\Debug\net8.0\JOANAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\JOANAPI\JOANAPI.Application\obj\Debug\net8.0\JOANAPI.Application.AssemblyInfoInputs.cache
+D:\C#\JOANAPI\JOANAPI.Application\obj\Debug\net8.0\JOANAPI.Application.AssemblyInfo.cs
+D:\C#\JOANAPI\JOANAPI.Application\obj\Debug\net8.0\JOANAPI.Application.csproj.CoreCompileInputs.cache
+D:\C#\JOANAPI\JOANAPI.Application\obj\Debug\net8.0\JOANAPI.Application.dll
+D:\C#\JOANAPI\JOANAPI.Application\obj\Debug\net8.0\refint\JOANAPI.Application.dll
+D:\C#\JOANAPI\JOANAPI.Application\obj\Debug\net8.0\JOANAPI.Application.pdb
+D:\C#\JOANAPI\JOANAPI.Application\obj\Debug\net8.0\ref\JOANAPI.Application.dll

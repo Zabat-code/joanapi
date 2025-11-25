@@ -1,0 +1,15 @@
+D:\C#\JOANAPI\JOANAPI.Infrastructure\bin\Debug\net8.0\JOANAPI.Infrastructure.deps.json
+D:\C#\JOANAPI\JOANAPI.Infrastructure\bin\Debug\net8.0\JOANAPI.Infrastructure.dll
+D:\C#\JOANAPI\JOANAPI.Infrastructure\bin\Debug\net8.0\JOANAPI.Infrastructure.pdb
+D:\C#\JOANAPI\JOANAPI.Infrastructure\bin\Debug\net8.0\JOANAPI.Domain.dll
+D:\C#\JOANAPI\JOANAPI.Infrastructure\bin\Debug\net8.0\JOANAPI.Domain.pdb
+D:\C#\JOANAPI\JOANAPI.Infrastructure\obj\Debug\net8.0\JOANAPI.Infrastructure.csproj.AssemblyReference.cache
+D:\C#\JOANAPI\JOANAPI.Infrastructure\obj\Debug\net8.0\JOANAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\JOANAPI\JOANAPI.Infrastructure\obj\Debug\net8.0\JOANAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\C#\JOANAPI\JOANAPI.Infrastructure\obj\Debug\net8.0\JOANAPI.Infrastructure.AssemblyInfo.cs
+D:\C#\JOANAPI\JOANAPI.Infrastructure\obj\Debug\net8.0\JOANAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\C#\JOANAPI\JOANAPI.Infrastructure\obj\Debug\net8.0\JOANAPI..E652BE75.Up2Date
+D:\C#\JOANAPI\JOANAPI.Infrastructure\obj\Debug\net8.0\JOANAPI.Infrastructure.dll
+D:\C#\JOANAPI\JOANAPI.Infrastructure\obj\Debug\net8.0\refint\JOANAPI.Infrastructure.dll
+D:\C#\JOANAPI\JOANAPI.Infrastructure\obj\Debug\net8.0\JOANAPI.Infrastructure.pdb
+D:\C#\JOANAPI\JOANAPI.Infrastructure\obj\Debug\net8.0\ref\JOANAPI.Infrastructure.dll

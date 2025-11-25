@@ -1,0 +1,11 @@
+D:\C#\JOANAPI\JOANAPI.Domain\bin\Debug\net8.0\JOANAPI.Domain.deps.json
+D:\C#\JOANAPI\JOANAPI.Domain\bin\Debug\net8.0\JOANAPI.Domain.dll
+D:\C#\JOANAPI\JOANAPI.Domain\bin\Debug\net8.0\JOANAPI.Domain.pdb
+D:\C#\JOANAPI\JOANAPI.Domain\obj\Debug\net8.0\JOANAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\JOANAPI\JOANAPI.Domain\obj\Debug\net8.0\JOANAPI.Domain.AssemblyInfoInputs.cache
+D:\C#\JOANAPI\JOANAPI.Domain\obj\Debug\net8.0\JOANAPI.Domain.AssemblyInfo.cs
+D:\C#\JOANAPI\JOANAPI.Domain\obj\Debug\net8.0\JOANAPI.Domain.csproj.CoreCompileInputs.cache
+D:\C#\JOANAPI\JOANAPI.Domain\obj\Debug\net8.0\JOANAPI.Domain.dll
+D:\C#\JOANAPI\JOANAPI.Domain\obj\Debug\net8.0\refint\JOANAPI.Domain.dll
+D:\C#\JOANAPI\JOANAPI.Domain\obj\Debug\net8.0\JOANAPI.Domain.pdb
+D:\C#\JOANAPI\JOANAPI.Domain\obj\Debug\net8.0\ref\JOANAPI.Domain.dll

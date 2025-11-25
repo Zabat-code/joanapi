@@ -30,7 +30,26 @@ The goal is to improve the quality of care, streamline medical processes, and en
 
 ## Project Structure
 
-- Controller
-    - Users
+- Api
+    - Controller
+        - Users
+    - Extensions
+    - Middlewares
+- Application
+    - DTOs
+        - Users
+    - Features
+    - Interfaces
+    - Services
+- Domain
+    - Entities
+        - Users
+    - Enums
+    - Events
+    - ValueObjects
+- Infrastructure
+    - Persistence 
+    - Repositories
+    - Services 
 
 

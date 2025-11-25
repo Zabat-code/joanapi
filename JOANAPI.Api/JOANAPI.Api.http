@@ -1,0 +1,6 @@
+@JOANAPI.Api_HostAddress = http://localhost:5280
+
+GET {{JOANAPI.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

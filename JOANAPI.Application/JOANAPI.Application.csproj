@@ -11,4 +11,8 @@
     <PackageReference Include="MediatR" Version="13.1.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\JOANAPI.Infrastructure\JOANAPI.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

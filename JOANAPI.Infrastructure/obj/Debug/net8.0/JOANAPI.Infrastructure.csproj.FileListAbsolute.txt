@@ -13,3 +13,6 @@ D:\C#\JOANAPI\JOANAPI.Infrastructure\obj\Debug\net8.0\JOANAPI.Infrastructure.dll
 D:\C#\JOANAPI\JOANAPI.Infrastructure\obj\Debug\net8.0\refint\JOANAPI.Infrastructure.dll
 D:\C#\JOANAPI\JOANAPI.Infrastructure\obj\Debug\net8.0\JOANAPI.Infrastructure.pdb
 D:\C#\JOANAPI\JOANAPI.Infrastructure\obj\Debug\net8.0\ref\JOANAPI.Infrastructure.dll
+D:\C#\JOANAPI\JOANAPI.Infrastructure\bin\Debug\net8.0\JOANAPI.Infrastructure.runtimeconfig.json
+D:\C#\JOANAPI\JOANAPI.Infrastructure\obj\Debug\net8.0\JOANAPI.Infrastructure.sourcelink.json
+D:\C#\JOANAPI\JOANAPI.Infrastructure\obj\Debug\net8.0\JOANAPI.Infrastructure.genruntimeconfig.cache

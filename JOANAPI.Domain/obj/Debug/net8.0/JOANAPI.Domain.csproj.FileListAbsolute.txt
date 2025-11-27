@@ -9,3 +9,4 @@ D:\C#\JOANAPI\JOANAPI.Domain\obj\Debug\net8.0\JOANAPI.Domain.dll
 D:\C#\JOANAPI\JOANAPI.Domain\obj\Debug\net8.0\refint\JOANAPI.Domain.dll
 D:\C#\JOANAPI\JOANAPI.Domain\obj\Debug\net8.0\JOANAPI.Domain.pdb
 D:\C#\JOANAPI\JOANAPI.Domain\obj\Debug\net8.0\ref\JOANAPI.Domain.dll
+D:\C#\JOANAPI\JOANAPI.Domain\obj\Debug\net8.0\JOANAPI.Domain.sourcelink.json

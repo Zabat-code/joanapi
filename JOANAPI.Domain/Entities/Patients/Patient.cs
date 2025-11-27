@@ -5,12 +5,8 @@ namespace JOANAPI.Domain.Entities.Patients
     //<summary>
     // Represents a patient in the healthcare system.
     //</summary>
-    public class Patient
+    public class Patient: BaseEntity
     {
-        //<summary>
-        // Unique identifier for the patient.
-        //</summary>
-        public Guid Id { get; set; }
 
         //<summary>
         // First name of the patient.
@@ -46,8 +42,19 @@ namespace JOANAPI.Domain.Entities.Patients
         // Gender of the patient.
         //</summary>
         public Gender Gender { get; set; }
-
+        //<summary>
+        // Emergency contact information for the patient.
+        //</summary>
         public string EmergencyContact { get; set; }
+
+        //<summary>
+        // Identification number of the patient.
+        //</summary>
         public string IdentificationNumber { get; set; }
+
+        //<summary>
+        // Insurance provider associated with the patient.
+        //</summary>
+        public Insurance InsuranceProvider { get; set; }
     }
 }

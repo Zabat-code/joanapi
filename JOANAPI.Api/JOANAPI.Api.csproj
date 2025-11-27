@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\JOANAPI.Infrastructure\JOANAPI.Infrastructure.csproj" />
+    <ProjectReference Include="..\JOANAPI.Application\JOANAPI.Application.csproj" />
   </ItemGroup>
 
 </Project>

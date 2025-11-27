@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JOANAPI.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b68a5c593cd3e3c5af1afc279510c1b8a9a39b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d9b759fa03ee71585908b7c90df9b1887a7e6f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("JOANAPI.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JOANAPI.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,7 +3,7 @@ namespace JOANAPI.Domain.Entities.Users
     /// <summary>
     /// Represents a system user entity within the domain layer.
     /// </summary>
-    public class User
+    public class User :BaseEntity
     {
 
         /// <summary>
@@ -29,6 +29,16 @@ namespace JOANAPI.Domain.Entities.Users
         /// <summary>
         /// Gets or sets the state of user, this is enable o disabled.
         /// </summary>
-        public bool status {  get; set; }
+        public bool Status {  get; set; }
+           public override void UpdateValueFrom(BaseEntity source)
+        {
+            if (source is User user)
+            {
+                Username = user.Username;
+                Email = user.Email;
+                PasswordHash = user.PasswordHash;
+                Status = user.Status; 
+            }
+        }
     }
 }

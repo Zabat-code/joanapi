@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JOANAPI.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d9b759fa03ee71585908b7c90df9b1887a7e6f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed838d46d686c0485b3ab25892890a6d92f74df3")]
 [assembly: System.Reflection.AssemblyProductAttribute("JOANAPI.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JOANAPI.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

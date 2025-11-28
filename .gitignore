@@ -1,1 +1,10 @@
 .vs/
+JOANAPI.API/obj/
+JOANAPI.API/bin/
+JOANAPI.API/*.Development.json
+JOANAPI.Application/obj/
+JOANAPI.Application/bin/
+JOANAPI.Domain/obj/
+JOANAPI.Domain/bin/
+JOANAPI.Infrastructure/obj/
+JOANAPI.Infrastucture/bin/ 

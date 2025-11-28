@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\JOANAPI.Infrastructure\JOANAPI.Infrastructure.csproj" />
+    <ProjectReference Include="..\JOANAPI.Domain\JOANAPI.Domain.csproj" />
   </ItemGroup>
 
 </Project>

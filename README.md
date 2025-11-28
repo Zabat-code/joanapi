@@ -49,6 +49,9 @@ The goal is to improve the quality of care, streamline medical processes, and en
     - ValueObjects
 - Infrastructure
     - Persistence 
+        - Configuration
+        - Migrations
+        AplicationDBContext
     - Repositories
     - Services 
 

@@ -1,3 +1,4 @@
+using JOANAPI.Domain.Entities.Insurances;
 using JOANAPI.Enums;
 
 namespace JOANAPI.Domain.Entities.Patients
@@ -56,5 +57,18 @@ namespace JOANAPI.Domain.Entities.Patients
         // Insurance provider associated with the patient.
         //</summary>
         public Insurance InsuranceProvider { get; set; }
+
+        public override void UpdateValueFrom(BaseEntity source)
+        {
+            if (source is Patient patient)
+            {
+                FirstName = patient.FirstName;
+                LastName = patient.LastName;
+                DateOfBirth = patient.DateOfBirth;
+                email = patient.email;
+                PhoneNumber = patient.PhoneNumber;
+                Address = patient.Address;
+            }
+        }
     }
 }

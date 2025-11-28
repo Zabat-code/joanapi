@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace JOANAPI.Application.Interfaces
+namespace JOANAPI.Application.Interfaces.Users
 {
 
     /// <summary>

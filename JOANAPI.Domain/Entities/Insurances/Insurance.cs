@@ -1,4 +1,6 @@
-namespace JOANAPI.Domain.Entities.Insurance
+using JOANAPI.Domain.Entities.Patients;
+
+namespace JOANAPI.Domain.Entities.Insurances
 {
     /// <summary>
     /// Represents an insurance entity within the domain layer.
@@ -25,7 +27,7 @@ namespace JOANAPI.Domain.Entities.Insurance
             if (source is Insurance insurance)
             {
                 ProviderName = insurance.ProviderName;
-                PolicyNumber = insurance.PolicyNumber;
+                patients = insurance.patients;
                 CoverageDetails = insurance.CoverageDetails;
             }
         }

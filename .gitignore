@@ -1,11 +1,30 @@
+# Carpetas de Visual Studio
 .vs/
-JOANAPI.API/obj/*
-JOANAPI.API/bin/*
-JOANAPI.API/*.Development.json
-JOANAPI.Application/obj/*
-JOANAPI.Application/bin/*
-JOANAPI.Domain/obj/*
-JOANAPI.Domain/bin/*
-JOANAPI.Infrastructure/obj/*
-JOANAPI.Infrastucture/bin/* 
-obj/*
+
+# Archivos de usuario de Visual Studio
+*.user
+*.suo
+
+# Build outputs
+**/bin/
+**/obj/
+
+# Archivos de configuración locales (no se suben)
+*.Development.json
+
+# Carpetas específicas por proyecto
+JOANAPI.API/bin/
+JOANAPI.API/obj/
+JOANAPI.Application/bin/
+JOANAPI.Application/obj/
+JOANAPI.Domain/bin/
+JOANAPI.Domain/obj/
+JOANAPI.Infrastructure/bin/
+JOANAPI.Infrastructure/obj/
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
